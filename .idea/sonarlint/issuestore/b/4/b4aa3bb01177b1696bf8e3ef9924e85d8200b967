@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Úƒøÿÿÿÿ
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(®ÒöÂüÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(®ÒöÂüÿÿÿÿ
+q
+java:S4276	"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(Ä·Îú
+V
+java:S1612	"@Replace this lambda with method reference 'String::toLowerCase'.(Ä·Îú
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(û†Æóüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»ì··
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ´¼úÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ

@@ -1,0 +1,18 @@
+
+J
+java:S3740
+"/Provide the parametrized type for this generic.(Şï½”úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È¶ÜÍ
+Z
+java:S3655"DCall "op.isPresent()" or "!op.isEmpty()" before accessing the value.(ÛÉÀ
+B
+java:S1172",Remove this unused method parameter "valor".(Šñ’¿
+Q	java:S125"<This block of commented-out lines of code should be removed.(è°Ÿ»
+=
+java:S2201"'The return value of "get" must be used.(ÛÉÀ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’…Î¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+J
+java:S2201"/The return value of "orElseThrow" must be used.(÷Š¥ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã“õè
+V	java:S125!"<This block of commented-out lines of code should be removed.(—ØÃüùÿÿÿÿ

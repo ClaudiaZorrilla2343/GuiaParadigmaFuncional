@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³Ñ¡¼
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ÇÇ’Ãýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÓöŒúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(•ÔØô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³¯õº
+S	java:S106"9Replace this use of System.out or System.err by a logger.(žÉ¡Âÿÿÿÿÿ
+N
+java:S1854/"9Remove this useless assignment to local variable "iper3".(†“‡
+P	java:S125+"<This block of commented-out lines of code should be removed.(Œ»Ð+
+?
+java:S1481/"*Remove this unused "iper3" local variable.(†“‡
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Ôº°Äúÿÿÿÿ8‘æÌ¤ƒ0
+d
+java:S16125"NReplace this lambda with method reference 'MeRefApp::referenciarMetodoStatic'.(¸‘×¢
